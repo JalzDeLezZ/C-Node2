@@ -1,0 +1,25 @@
+// -------------- GIT IGNORE ----------------
+https://www.toptal.com/developers/gitignore/
+
+
+// -- EDITOR CONFIG
+
+//
+1.  INSTALL PACKE
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+$ npm i express
+$ npm i faker
+npm i morgan
+
+//RESPONSE STATUS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://http.cat/
+
+//CONTROLADOR DE ERRORES
+https://hapi.dev/module/boom/api/?v=9.1.4
+npm: npm install @hapi/boom
+
+
+npm docs joi
+$ npm i joi
+
